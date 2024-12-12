@@ -1,0 +1,6 @@
+# 被禁止添加进入服务器的mod
+banned-mods:
+  - Wurst
+# 命令名
+command:
+  name: AutSa

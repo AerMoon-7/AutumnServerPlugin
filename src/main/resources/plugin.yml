@@ -1,0 +1,4 @@
+name: AutumnSafety
+version: '${version}'
+main: io.github.autumn.autumnsafety.AutumnSafety
+api-version: '1.21'
